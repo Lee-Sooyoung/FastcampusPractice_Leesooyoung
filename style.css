@@ -1,4 +1,11 @@
+.app-bar {
+	background-color: #009688;
+	width: 360px;
+	height: 56px;
+}
+
 .section-header {
 	font-size: 14px;
 	color: #009789;
 }
+
